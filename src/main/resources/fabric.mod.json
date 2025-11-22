@@ -3,7 +3,7 @@
 	"id": "betterconcreteconversion",
 	"version": "${version}",
 	"name": "Better Concrete Conversion",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Converts concrete powder to blocks when touching water in item form",
 	"authors": [
 		"Me!"
 	],
